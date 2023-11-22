@@ -1,0 +1,33 @@
+Watching for file changes with StatReloader
+Visiting a page TITLE in: 2023-11-22 17:03:36.290228
+"GET /title/ HTTP/1.1" 200 1464
+Visiting a page MY_SITE in: 2023-11-22 17:03:39.169337
+"GET /title/my/ HTTP/1.1" 200 936
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2273
+Visiting a page TITLE in: 2023-11-22 17:04:53.608152
+"GET /title/ HTTP/1.1" 200 1464
+Visiting a page MY_SITE in: 2023-11-22 17:04:56.483106
+"GET /title/my/ HTTP/1.1" 200 936
+Watching for file changes with StatReloader
+D:\Обучение\Python\GeekBrains\Фреймворк Django\Project_1\myproject\homeapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Обучение\Python\GeekBrains\Фреймворк Django\Project_1\myproject\homeapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Visiting a page MY_SITE in: 2023-11-22 17:05:39.017384
+"GET /title/my/ HTTP/1.1" 200 936
+Visiting a page TITLE in: 2023-11-22 17:05:40.595543
+"GET /title/ HTTP/1.1" 200 1464
+D:\Обучение\Python\GeekBrains\Фреймворк Django\Project_1\myproject\homeapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Обучение\Python\GeekBrains\Фреймворк Django\Project_1\myproject\homeapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\Обучение\Python\GeekBrains\Фреймворк Django\Project_1\myproject\homeapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Visiting a page TITLE in: 2023-11-22 17:06:10.056171
+"GET /title/ HTTP/1.1" 200 1464
+Visiting a page MY_SITE in: 2023-11-22 17:06:14.491811
+"GET /title/my/ HTTP/1.1" 200 935
+Visiting a page MY_SITE in: 2023-11-22 17:06:16.012307
+"GET /title/my/ HTTP/1.1" 200 935
